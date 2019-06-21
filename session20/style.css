@@ -1,0 +1,18 @@
+.border{
+	width:400px;
+	height: 400px;
+	border:1px;
+}
+
+.black{
+	background-color: black;
+	height: 50px;
+	width: 50px;
+	float: left;
+}
+.red{
+	background-color: red;
+	height: 50px;
+	float: left;
+	width: 50px;
+}
